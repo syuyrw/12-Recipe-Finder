@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+body,
+html {
+    height: 100%;
+}
+
+main {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+}
+
+h1 {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 8vw;
+    margin: 3px;
+}
+
+input {
+    width: 60vw;
+    height: 40px;
+    box-sizing: border-box;
+    font-size: 2vw;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding-left: 10px;
+}
+
+#search-btn {
+    box-sizing: border-box;
+    height: 40px;
+    width: 10vw;
+    font-size: 2vw;
+
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+#recipe-area {
+    width: 100%;
+}
+
+#ingredients-area,
+#steps-area {
+    border: 2px solid black;
+    margin: 10px 0;
+    border-radius: 20px;
+}
+
+h2 {
+    text-align: center;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 4vw;
+    margin: 3px;
+}
+
+img {
+    height: 20vh;
+    display: block;
+    margin: auto;
+}
+
+h3 {
+    text-align: center;
+}
+
+p,
+li {
+    margin: 0 10vw;
+}
+
+p {
+    margin-bottom: 10px;
+}
