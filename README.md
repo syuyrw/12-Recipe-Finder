@@ -1,6 +1,6 @@
 # Recipe Finder
 
-[![View Live](https://img.shields.io/badge/Live%20Demo-Recipe-Finder-blue?style=for-the-badge)](https://syuyrw.github.io/12-Recipe-Finder/)
+[![View Live](https://img.shields.io/badge/Live%20Demo-RecipeFinder-blue?style=for-the-badge)](https://syuyrw.github.io/12-Recipe-Finder/)
 
 I created this Recipe Finder app to solve a simple problem that my mom faces. She doesn't like looking online for recipes. She finds it overwhelming. I made an app to solve that for her. Now she can use this app to find recipes without having to look other places, and there are no ads, so it is easy to actually read the recipe.
 
