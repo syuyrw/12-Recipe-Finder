@@ -1,4 +1,4 @@
-# Javascript Calculator
+# Recipe Finder
 
 [![View Live](https://img.shields.io/badge/Live%20Demo-Recipe-Finder-blue?style=for-the-badge)](https://syuyrw.github.io/12-Recipe-Finder/)
 
